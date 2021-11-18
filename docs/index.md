@@ -17,3 +17,8 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
         ...       # Other markdown pages, images and other files.
 
 あああ
+
+## mkdocsお試し
+
+- コードのリポジトリ: https://github.com/u110/test-mkdocs-materials
+- ページの表示先: https://u110.github.io/test-mkdocs-materials/

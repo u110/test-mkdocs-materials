@@ -8,3 +8,6 @@ pip:
 
 deploy:
 	env/bin/python -m mkdocs gh-deploy
+
+open:
+	open https://u110.github.io/test-mkdocs-materials/
